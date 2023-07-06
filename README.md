@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dk3g0
+- 👀 I’m interested in back-end programming.
+- 🌱 I’m currently learning cibersecurity and back-end programming
+- 💞️ I’m looking to collaborate on data services
+- 📫 You can reach me through email, or via GitHub.
